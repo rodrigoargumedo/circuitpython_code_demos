@@ -1,4 +1,4 @@
-#SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
+#SPDX-FileCopyrightText: 2021 Rodrigo Argumedo for Adafruit Industries
 #SPDX-License-Identifier: MIT
 
 """ Example for using the SGP30 with CircuitPython and the Adafruit library"""
